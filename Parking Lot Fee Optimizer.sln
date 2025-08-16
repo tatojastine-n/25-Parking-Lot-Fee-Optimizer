@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking Lot Fee Optimizer", "Parking Lot Fee Optimizer.csproj", "{80B9D099-DC8B-42F6-8C6C-D35DF6C77A4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80B9D099-DC8B-42F6-8C6C-D35DF6C77A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B9D099-DC8B-42F6-8C6C-D35DF6C77A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B9D099-DC8B-42F6-8C6C-D35DF6C77A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B9D099-DC8B-42F6-8C6C-D35DF6C77A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31D59DC7-B3B8-40F2-943E-48072AD3541F}
+	EndGlobalSection
+EndGlobal
